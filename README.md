@@ -8,7 +8,7 @@ Karel the Robot was quite a success. Karel has been used in introductory compute
 ![alt text](https://compedu.stanford.edu/karel-reader/docs/images/ch1/karelLarge.png)
 
 
-# What is Karel?
+## What is Karel?
 
 Karel is a very simple robot living in a very simple world. By giving Karel a set of commands, you can direct it to perform certain tasks within its world. The process of specifying those commands is called programming. Initially, Karel understands only a very small number of predefined commands, but an important part of the programming process is teaching Karel new commands that extend its capabilities.
 
@@ -17,7 +17,7 @@ Karel programs have much the same structure and involve the same fundamental ele
 By starting with Karel, you can concentrate on solving problems from the very beginning. Problem solving is the essence of programming. And because Karel encourages imagination and creativity, you can have quite a lot of fun along the way.
 
 
-# Karel's World
+## Karel's World
 
 Karel’s world is defined by rows running horizontally (east-west) and columns running vertically (north-south). The intersection of a row and a column is called a corner. Karel can only be positioned on corners and must be facing one of the four standard compass directions (north, south, east, west). A sample Karel world is shown below. Here Karel is located at the corner of 1st row and 1st column, facing east.
 
